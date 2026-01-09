@@ -25,6 +25,7 @@ The dataset contains social media engagement data across multiple platforms, bra
 - Engagement YTD and YoY Growth
 - Monthly Engagement Trend
 - Platform-wise and Topic-wise Engagement
+- ![Executive Overview](Page 1.png)
 
 ### 2. Platform Performance
 - Engagement by Platform

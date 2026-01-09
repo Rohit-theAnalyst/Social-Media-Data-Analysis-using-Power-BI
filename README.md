@@ -25,25 +25,32 @@ The dataset contains social media engagement data across multiple platforms, bra
 - Engagement YTD and YoY Growth
 - Monthly Engagement Trend
 - Platform-wise and Topic-wise Engagement
-- ![Executive Overview](Page 1.png)
+ 
+ ![Executive Overview](Page1.png)
 
 ### 2. Platform Performance
 - Engagement by Platform
 - Engagement Rate vs Volume
 - Sentiment distribution per platform
 - Platform engagement trend
+  
+ ![Platform Performance](Page2.png)
 
 ### 3. Brand & Campaign Performance
 - Top Brand and Best Campaign
 - Campaign phase impact
 - Campaign performance matrix
 - Brand engagement trends
+  
+ ![Brand & Campaign Performance](Page3.png)
 
 ### 4. User Behaviour & Sentiment Analysis
 - Sentiment distribution
 - Emotion vs Engagement
 - Topic category vs sentiment
 - User activity trends
+  
+ ![User Behaviour & Sentiment Analysis](Page4.png)
 
 ## Key Insights
 - YouTube is the top-performing platform by engagement.
